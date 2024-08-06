@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning advanced cybersecurity methodologies and machine learning applications in cybersecurity.
 - 💞️ I’m looking to collaborate on open-source cybersecurity projects, Capture The Flag (CTF) events, and tech workshops.
 - 📫 How to reach me: 
-  - LinkedIn: [linkedin.com/in/arunachaleswaran-m-s](https://www.linkedin.com/in/arunachaleswaranms)
+  - LinkedIn: [linkedin.com/in/arunachaleswaranms](https://www.linkedin.com/in/arunachaleswaranms)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a following of 70k on Instagram as @prime_techie, where I share insights on cybersecurity!
 
