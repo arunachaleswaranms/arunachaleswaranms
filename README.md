@@ -1,70 +1,58 @@
+<h1 align="center">Arunachaleswaran M S</h1>
+<p align="center"><strong>Cybersecurity Engineer · Security Researcher</strong></p>
+
 <p align="center">
   <picture>
-    <source media="(max-width: 600px) and (prefers-reduced-motion: reduce)" srcset="assets/hero-mobile-static.png" />
-    <source media="(max-width: 600px)" srcset="assets/hero-mobile.gif" />
-    <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-static.png" />
-    <img src="assets/hero.gif" width="100%" alt="Arunachaleswaran M S — Cybersecurity Engineer and Security Researcher. Animated voxel researcher at a laptop: inspect, reproduce, patch, retest." />
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/researcher-static.png" />
+    <img src="assets/researcher.gif" width="280" alt="Voxel researcher typing at a laptop" />
   </picture>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/arunachaleswaranms"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-5EEAD4?style=for-the-badge&amp;labelColor=111A2E" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/arunachaleswaranms?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-A78BFA?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=111A2E" alt="Explore my repositories" /></a>
-</p>
+<p align="center">I investigate attack paths, build security tools, and document what the evidence supports.<br />
+<a href="https://www.linkedin.com/in/arunachaleswaranms">LinkedIn ↗</a> &nbsp;·&nbsp; <a href="https://github.com/arunachaleswaranms?tab=repositories">Repositories ↗</a></p>
 
-<p align="center"><b>Cybersecurity Engineer &nbsp; · &nbsp; Security Researcher</b><br />
-I investigate attack paths, build security tools, and test defensive ideas through practical projects.</p>
+## Featured work
 
-<p align="center">
-  <a href="#selected-projects">Projects</a> &nbsp; · &nbsp;
-  <a href="#project-stack">Tech stack</a> &nbsp; · &nbsp;
-  <a href="#github-activity">Activity</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/arunachaleswaranms">Connect</a>
-</p>
+### [CVE Research Radar](https://github.com/arunachaleswaranms/cve-research-radar)
 
-<img src="assets/focus.svg" width="100%" alt="Focus areas: vulnerability research; offensive and defensive security; security tooling." />
+A Python CLI that discovers and prioritizes open-source repositories for manual CVE research. Its release, policy, maintainer, advisory, and language signals measure research suitability, not vulnerability.
 
-<img src="assets/signal-divider.svg" width="100%" alt="" />
+```text
+CVE Research Radar — Quick Guide
 
-## Selected projects
+1. Check your setup
+   python cve_radar.py doctor
 
-From research tooling and detection experiments to patching an AI-security workshop and building authenticated local systems. Open a card for the code, methodology, and current status.
+2. Discover 20 candidates
+   python cve_radar.py discover --preset self-hosted --policy-mode prefer
+--documentation-mode accessible --candidate-limit 20 --sort score
+```
 
-<p align="center">
-  <a href="https://github.com/arunachaleswaranms/cve-research-radar"><img src="assets/radar.svg" width="49%" alt="CVE Research Radar: Python CLI for prioritizing repositories for manual research; not vulnerability detection." /></a>
-  <a href="https://github.com/arunachaleswaranms/Cyber-Intrusion-Detection-System"><img src="assets/ids.svg" width="49%" alt="Cyber Intrusion Detection System: offline machine-learning research using UNSW-NB15; published v2.0 baseline." /></a>
-  <br />
-  <a href="https://github.com/arunachaleswaranms/vulnbank-patch-mode-lab"><img src="assets/lab.svg" width="49%" alt="VulnBank Patch Mode: an adapted AI-security workshop comparing vulnerable and patched behavior. Upstream credited in the repository." /></a>
-  <a href="https://github.com/arunachaleswaranms/RideLink"><img src="assets/ride.svg" width="49%" alt="RideLink: local Android and iOS intercom and synchronized music with authenticated pairing. In development; physical qualification pending." /></a>
-</p>
+<sub>Actual excerpt from <code>python cve_radar.py guide</code>, captured locally on 26 Sep 2026 with an 80-column terminal. Discovery output needs GitHub API access.</sub>
 
-<details>
-<summary><b>Project index / text version</b></summary>
+### More projects
 
-- [CVE Research Radar](https://github.com/arunachaleswaranms/cve-research-radar) — Python CLI for discovering and prioritizing repositories for manual CVE research.
-- [Cyber Intrusion Detection System](https://github.com/arunachaleswaranms/Cyber-Intrusion-Detection-System) — reproducible offline detection experiments, controlled data splits, and documented evaluation.
-- [VulnBank Patch Mode](https://github.com/arunachaleswaranms/vulnbank-patch-mode-lab) — an adaptation of an upstream AI-security workshop, with vulnerable and patched modes.
-- [RideLink](https://github.com/arunachaleswaranms/RideLink) — local intercom and music synchronization across Android and iOS. Physical qualification remains pending.
+- [Cyber Intrusion Detection System](https://github.com/arunachaleswaranms/Cyber-Intrusion-Detection-System) — offline UNSW-NB15 detection research with reproducible baselines and a local evidence dashboard; not live traffic monitoring.
+- [VulnBank Patch Mode](https://github.com/arunachaleswaranms/vulnbank-patch-mode-lab) — an adaptation of the [upstream VulnBank workshop](https://github.com/shri-the-tree/vulnbank-workshop), built on DVAA, that contrasts vulnerable and server-side patched AI-agent behavior.
+- [RideLink](https://github.com/arunachaleswaranms/RideLink) — local Android/iOS intercom and synchronized music; software integration is complete, while physical riding qualification remains pending.
 
-</details>
+## Technology
 
-## Project stack
+<p><strong>Languages</strong><br />
+<img src="https://skillicons.dev/icons?i=python,js,kotlin,swift" height="34" alt="Python, JavaScript, Kotlin, Swift icons" /><br />
+Python · JavaScript · Kotlin · Swift</p>
 
-<img src="assets/stack.svg" width="100%" alt="Languages: Python, JavaScript, Kotlin, Swift. Data and research: scikit-learn, pandas, NumPy. Build and ship: Node.js, Docker, Git." />
-
-<sub>Technologies represented in the projects above.</sub>
+<p><strong>Research & build</strong><br />
+<img src="https://skillicons.dev/icons?i=docker,git" height="34" alt="Docker and Git icons" /><br />
+🔬 scikit-learn · Docker · Git</p>
 
 ## GitHub activity
 
 <p align="center">
-  <a href="https://github.com/arunachaleswaranms?tab=overview"><img src="https://github-stats-extended.vercel.app/api?username=arunachaleswaranms&amp;show_icons=true&amp;hide_rank=true&amp;card_width=495&amp;bg_color=0B1020&amp;title_color=5EEAD4&amp;text_color=9BAAC4&amp;icon_color=A78BFA&amp;border_color=263553&amp;border_radius=14" width="49%" alt="Live GitHub statistics including commits and pull requests" /></a>
-  <a href="https://github.com/arunachaleswaranms?tab=overview"><img src="https://streak-stats.demolab.com/?user=arunachaleswaranms&amp;background=0B1020&amp;border=263553&amp;stroke=263553&amp;ring=5EEAD4&amp;fire=A78BFA&amp;currStreakNum=E6EDF7&amp;sideNums=E6EDF7&amp;currStreakLabel=5EEAD4&amp;sideLabels=9BAAC4&amp;dates=9BAAC4" width="49%" alt="Live contribution totals, current streak and longest streak" /></a>
+  <a href="https://github.com/arunachaleswaranms?tab=overview"><img src="https://github-stats-extended.vercel.app/api?username=arunachaleswaranms&amp;show_icons=true&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;card_width=495&amp;bg_color=0B1020&amp;title_color=5EEAD4&amp;text_color=E6EDF7&amp;icon_color=A78BFA&amp;border_color=263553" width="495" alt="Public GitHub commits in the current calendar year and total pull requests" /></a><br />
+  <a href="https://github.com/arunachaleswaranms?tab=overview"><img src="https://streak-stats.demolab.com/?user=arunachaleswaranms&amp;background=0B1020&amp;border=263553&amp;stroke=263553&amp;ring=5EEAD4&amp;fire=A78BFA&amp;currStreakNum=E6EDF7&amp;sideNums=E6EDF7&amp;currStreakLabel=5EEAD4&amp;sideLabels=9BAAC4&amp;dates=9BAAC4" width="495" alt="Contribution totals, current streak, and longest streak" /></a>
 </p>
 
-<a href="https://github.com/arunachaleswaranms?tab=overview"><img src="https://ghchart.rshah.org/5eead4/arunachaleswaranms" width="100%" alt="Live GitHub contribution calendar showing daily activity squares" /></a>
+<sub>Public commits: current calendar year · PRs: all time · Streak: contribution days. [Native calendar](https://github.com/arunachaleswaranms?tab=overview) ↗</sub>
 
-<sub>Live cards use publicly available GitHub data and may refresh at different times. Contributions include more than commits. <a href="https://github.com/arunachaleswaranms?tab=overview">View the native contribution calendar ↗</a></sub>
-
-<br /><br />
-
-<a href="https://www.linkedin.com/in/arunachaleswaranms"><img src="assets/connect.svg" width="100%" alt="Building something in security? Connect with Arunachaleswaran M S on LinkedIn." /></a>
+<p align="center"><a href="https://www.linkedin.com/in/arunachaleswaranms">Connect on LinkedIn ↗</a></p>
