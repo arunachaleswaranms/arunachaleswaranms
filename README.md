@@ -46,8 +46,8 @@ scikit-learn · Docker · Git</p>
 ## GitHub activity
 
 <p align="center">
-  <a href="https://github.com/arunachaleswaranms?tab=overview"><img src="https://github-stats-extended.vercel.app/api?username=arunachaleswaranms&amp;show_icons=true&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;card_width=495&amp;bg_color=0B1020&amp;title_color=5EEAD4&amp;text_color=E6EDF7&amp;icon_color=A78BFA&amp;border_color=263553" width="495" alt="Public GitHub commits in the last year and total pull requests" /></a><br />
-  <a href="https://github.com/arunachaleswaranms?tab=overview"><img src="https://streak-stats.demolab.com/?user=arunachaleswaranms&amp;background=0B1020&amp;border=263553&amp;stroke=263553&amp;ring=5EEAD4&amp;fire=A78BFA&amp;currStreakNum=E6EDF7&amp;sideNums=E6EDF7&amp;currStreakLabel=5EEAD4&amp;sideLabels=9BAAC4&amp;dates=9BAAC4" width="495" alt="Contribution totals, current streak, and longest streak" /></a>
+  <a href="https://github.com/arunachaleswaranms?tab=overview"><img src="https://github-stats-extended.vercel.app/api?username=arunachaleswaranms&amp;show_icons=true&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;card_width=360&amp;bg_color=0B1020&amp;title_color=5EEAD4&amp;text_color=E6EDF7&amp;icon_color=A78BFA&amp;border_color=263553" width="360" alt="Public GitHub commits in the last year and total pull requests" /></a><br />
+  <a href="https://github.com/arunachaleswaranms?tab=overview"><img src="https://streak-stats.demolab.com/?user=arunachaleswaranms&amp;card_width=360&amp;background=0B1020&amp;border=263553&amp;stroke=263553&amp;ring=5EEAD4&amp;fire=A78BFA&amp;currStreakNum=E6EDF7&amp;sideNums=E6EDF7&amp;currStreakLabel=5EEAD4&amp;sideLabels=9BAAC4&amp;dates=9BAAC4" width="360" alt="Contribution totals, current streak, and longest streak" /></a>
 </p>
 
 <sub>Public commits: last year · PRs: all time · Streak: contribution days. [Native calendar](https://github.com/arunachaleswaranms?tab=overview) ↗</sub>
