@@ -18,14 +18,14 @@
 A Python CLI that discovers and prioritizes open-source repositories for manual CVE research. Its release, policy, maintainer, advisory, and language signals measure research suitability, not vulnerability.
 
 ```text
-6. Monitor your curated watchlist
-   python cve_radar.py scan
+Prioritize GitHub repositories for
+manual CVE research.
 
-The score measures research suitability,
-not vulnerability probability.
+positional arguments:
+  {scan,discover,guide,doctor}
 ```
 
-<sub>Actual <code>python cve_radar.py guide</code> excerpt, captured locally on 26 Sep 2026 at 40 columns. Live scans need GitHub API access.</sub>
+<sub>Actual <code>python cve_radar.py --help</code> excerpt, captured locally on 26 Sep 2026 at 40 columns. Live scans need GitHub API access.</sub>
 
 ### More projects
 
