@@ -1,4 +1,4 @@
-<h1 align="center">Arunachaleswaran M S</h1>
+<h2 align="center">Arunachaleswaran&nbsp;M&nbsp;S</h2>
 <p align="center"><strong>Cybersecurity Engineer · Security Researcher</strong></p>
 
 <p align="center">
@@ -18,17 +18,14 @@
 A Python CLI that discovers and prioritizes open-source repositories for manual CVE research. Its release, policy, maintainer, advisory, and language signals measure research suitability, not vulnerability.
 
 ```text
-CVE Research Radar — Quick Guide
+6. Monitor your curated watchlist
+   python cve_radar.py scan
 
-1. Check your setup
-   python cve_radar.py doctor
-
-2. Discover 20 candidates
-   python cve_radar.py discover --preset self-hosted --policy-mode prefer
---documentation-mode accessible --candidate-limit 20 --sort score
+The score measures research suitability,
+not vulnerability probability.
 ```
 
-<sub>Actual excerpt from <code>python cve_radar.py guide</code>, captured locally on 26 Sep 2026 with an 80-column terminal. Discovery output needs GitHub API access.</sub>
+<sub>Actual <code>python cve_radar.py guide</code> excerpt, captured locally on 26 Sep 2026 at 40 columns. Live scans need GitHub API access.</sub>
 
 ### More projects
 
@@ -43,16 +40,16 @@ CVE Research Radar — Quick Guide
 Python · JavaScript · Kotlin · Swift</p>
 
 <p><strong>Research & build</strong><br />
-<img src="https://skillicons.dev/icons?i=docker,git" height="34" alt="Docker and Git icons" /><br />
-🔬 scikit-learn · Docker · Git</p>
+🔬 <img src="https://skillicons.dev/icons?i=docker,git" height="34" alt="Docker and Git icons" /><br />
+scikit-learn · Docker · Git</p>
 
 ## GitHub activity
 
 <p align="center">
-  <a href="https://github.com/arunachaleswaranms?tab=overview"><img src="https://github-stats-extended.vercel.app/api?username=arunachaleswaranms&amp;show_icons=true&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;card_width=495&amp;bg_color=0B1020&amp;title_color=5EEAD4&amp;text_color=E6EDF7&amp;icon_color=A78BFA&amp;border_color=263553" width="495" alt="Public GitHub commits in the current calendar year and total pull requests" /></a><br />
+  <a href="https://github.com/arunachaleswaranms?tab=overview"><img src="https://github-stats-extended.vercel.app/api?username=arunachaleswaranms&amp;show_icons=true&amp;hide_rank=true&amp;hide=stars,issues,contribs&amp;card_width=495&amp;bg_color=0B1020&amp;title_color=5EEAD4&amp;text_color=E6EDF7&amp;icon_color=A78BFA&amp;border_color=263553" width="495" alt="Public GitHub commits in the last year and total pull requests" /></a><br />
   <a href="https://github.com/arunachaleswaranms?tab=overview"><img src="https://streak-stats.demolab.com/?user=arunachaleswaranms&amp;background=0B1020&amp;border=263553&amp;stroke=263553&amp;ring=5EEAD4&amp;fire=A78BFA&amp;currStreakNum=E6EDF7&amp;sideNums=E6EDF7&amp;currStreakLabel=5EEAD4&amp;sideLabels=9BAAC4&amp;dates=9BAAC4" width="495" alt="Contribution totals, current streak, and longest streak" /></a>
 </p>
 
-<sub>Public commits: current calendar year · PRs: all time · Streak: contribution days. [Native calendar](https://github.com/arunachaleswaranms?tab=overview) ↗</sub>
+<sub>Public commits: last year · PRs: all time · Streak: contribution days. [Native calendar](https://github.com/arunachaleswaranms?tab=overview) ↗</sub>
 
 <p align="center"><a href="https://www.linkedin.com/in/arunachaleswaranms">Connect on LinkedIn ↗</a></p>
